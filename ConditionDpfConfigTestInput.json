@@ -1,0 +1,25 @@
+[
+  {
+    "condition": {
+      "condition_resource_id": "ulP3ZotKvep3TJziH7Coz23OBITk3Gxb79jF8Ax1up",
+      "condition_resource_url_txt": "https://a-hi2-evernorth.test.digitaledge.evernorth.com/EvernorthFhir/v1/ADT/Condition/adt-ulP3ZotKvep3TJziH7Coz23OBITk3Gxb79jF8Ax1up",
+      "condition_clinical_status_coding_system": "http://terminology.hl7.org/CodeSystem/condition-clinical",
+      "condition_clinical_status_coding_cd": "active",
+      "condition_category_coding_system": "http://terminology.hl7.org/CodeSystem/condition-category",
+      "condition_category_cd": "encounter-diagnosis",
+      "condition_category_display_txt": "Encounter Diagnosis",
+      "condition_coding_system": "http://hl7.org/fhir/sid/icd-10",
+      "condition_cd": "R519",
+      "condition_display_txt": "Headache, unspecified",
+      "condition_desc": "Headache, unspecified",
+      "patient_resource_url_txt": "Patient/yQoTAaa7Sed3wTdrxyMozohlwIf4HVSogsARb0x1up",
+      "encounter_resource_url_txt": "Encounter/ClBiaJFDwbAAsGmRI2trqjkRxPkBWHR8HTxCOUx1up",
+      "condition_onset_dttm": "2023-04-15 09:15:03.000",
+      "condition_recorded_ts": "2023-04-15 09:15:03.000",
+      "data_lake_insert_ts": "2023-11-30 16:23:11.662",
+      "data_lake_insert_user_id": "hs_bdes_dev_extfhiranlytcs_sp",
+      "data_lake_last_update_ts": "2023-11-30 16:23:11.662",
+      "data_lake_last_update_user_id": "hs_bdes_dev_extfhiranlytcs_sp"
+    }
+  }
+]
